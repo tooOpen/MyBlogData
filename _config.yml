@@ -93,10 +93,13 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: tranquilpeak
 
+disqus_shortname: hangsoonbyun
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/tooOpen/tooOpen.github.io.git
+  message: apply disqus
   branch: master
-  message: hi
