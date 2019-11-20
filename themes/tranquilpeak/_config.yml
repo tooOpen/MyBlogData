@@ -76,8 +76,8 @@ header:
 # ------
 
 # Your biography and your job is editable in each languages files in `languages` folder
-author: Hangsoon
-    email:
+author:
+    email: sabjil0608@naver.com
     location: Jeju Korea
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
